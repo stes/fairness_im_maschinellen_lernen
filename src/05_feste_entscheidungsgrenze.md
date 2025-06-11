@@ -145,7 +145,7 @@ Die Anzahl der richtigen und falschen Vorhersagen f√ºr beide Personengruppen (‚Ä
         <th>Summe</th>
         <td><b>${n_true_positive + n_false_positive}</b></td>
         <td><b>${n_false_negative + n_true_negative}</b></td>
-        <td><b>${n_total}</b></td>
+        <td><b>${totalPersons}</b></td>
       </tr>
     </tbody>
   </table>

@@ -161,7 +161,7 @@ display(fig_right);
  <i class="fas fa-pencil-alt"></i>
   Die Bank entscheidet sich, deine "optimale" Entscheidungsgrenze aus der vorherigen Aufgabe für beide Personengruppen zu verwenden. 
 <ol type="a">
-  <li>Finde möglichst viele Kritikpunkte an diesem Ansatz</li>
+  <li>Finde möglichst viele Kritikpunkte an diesem Ansatz.</li>
   <li>Argumentiere aus Sicht der Bank, wieso das ein guter Ansatz ist.</li>
 </ol>
 </div>

@@ -105,6 +105,56 @@ Die Anzahl der richtigen und falschen Vorhersagen für beide Personengruppen (�
 
 ```html
 <div class="table-container">
+  <table>
+    <thead>
+      <tr>
+        <th></th>
+        <th>
+          Vorhersage:<br />
+          zahlt zurück
+        </th>
+        <th>
+          Vorhersage:<br />
+          zahlt nicht zurück
+        </th>
+        <th>Summe</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <th>Daten:<br />zahlt zurück</th>
+        <td style="background-color: rgba(0, 128, 0, 0.35); color: black;">
+          ${n_true_positive}
+        </td>
+        <td>
+          ${n_false_negative}
+        </td>
+        <td><b>${n_true_positive + n_false_negative}</b></td>
+      </tr>
+      <tr>
+        <th>Daten:<br />zahlt nicht zurück</th>
+        <td>
+          ${n_false_positive}
+        </td>
+        <td style="background-color: rgba(0, 128, 0, 0.35); color: black;">
+          ${n_true_negative}
+        </td>
+        <td><b>${n_false_positive + n_true_negative}</b></td>
+      </tr>
+      <tr>
+        <th>Summe</th>
+        <td><b>${n_true_positive + n_false_positive}</b></td>
+        <td><b>${n_false_negative + n_true_negative}</b></td>
+        <td><b>${n_total}</b></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+```
+
+
+```html
+<div class="table-container">
     <table>
         <thead>
             <tr>

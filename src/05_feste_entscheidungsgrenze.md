@@ -124,27 +124,27 @@ Die Anzahl der richtigen und falschen Vorhersagen für beide Personengruppen (�
       <tr>
         <th>Daten:<br />zahlt zurück</th>
         <td style="background-color: rgba(0, 128, 0, 0.35); color: black;">
-          ${n_true_positive}
+          ${TP}
         </td>
         <td>
-          ${n_false_negative}
+          ${FN}
         </td>
-        <td><b>${n_true_positive + n_false_negative}</b></td>
+        <td><b>${TP + FN}</b></td>
       </tr>
       <tr>
         <th>Daten:<br />zahlt nicht zurück</th>
         <td>
-          ${n_false_positive}
+          ${FP}
         </td>
         <td style="background-color: rgba(0, 128, 0, 0.35); color: black;">
-          ${n_true_negative}
+          ${TN}
         </td>
-        <td><b>${n_false_positive + n_true_negative}</b></td>
+        <td><b>${FP + TN}</b></td>
       </tr>
       <tr>
         <th>Summe</th>
-        <td><b>${n_true_positive + n_false_positive}</b></td>
-        <td><b>${n_false_negative + n_true_negative}</b></td>
+        <td><b>${TP + FP}</b></td>
+        <td><b>${FN + TN}</b></td>
         <td><b>${totalPersons}</b></td>
       </tr>
     </tbody>

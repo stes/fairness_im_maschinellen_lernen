@@ -95,46 +95,6 @@ const {
 } = calculateMetrics(data, "", threshAlt);
 ```
 
-```html
-<div class="table-container">
-  <table>
-    <thead>
-      <tr>
-        <th></th>
-        <th>
-          Vorhersage:<br />
-          zahlt zurück
-        </th>
-        <th>
-          Vorhersage:<br />
-          zahlt nicht zurück
-        </th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <th>Daten:<br />zahlt zurück</th>
-        <td contenteditable="false" style="background-color: rgba(0, 128, 0, 0.35); color: black;">
-          ${groupedData['Zahlt zurück']['abovethreshold']}
-        </td>
-        <td contenteditable="false">
-          ${groupedData['Zahlt zurück']['belowthreshold']}
-        </td>
-      </tr>
-      <tr>
-        <th>Daten:<br />zahlt nicht zurück</th>
-        <td contenteditable="false"> 
-          ${groupedData['Zahlt nicht zurück']['abovethreshold']}
-        </td>
-        <td contenteditable="false" style="background-color: rgba(0, 128, 0, 0.35); color: black;">
-          ${groupedData['Zahlt nicht zurück']['belowthreshold']}
-        </td>
-      </tr>
-      <tr></tr>
-    </tbody>
-  </table>
-</div>
-```
 
 ```html
 <div class="table-container">
@@ -150,7 +110,7 @@ const {
           Vorhersage:<br />
           zahlt nicht zurück
         </th>
-        <th>Zeilensumme</th>
+        <th>Summe</th>
       </tr>
     </thead>
     <tbody>
@@ -175,7 +135,7 @@ const {
         <td><b>${n_false_positive + n_true_negative}</b></td>
       </tr>
       <tr>
-        <th>Spaltensumme</th>
+        <th>Summe</th>
         <td><b>${n_true_positive + n_false_positive}</b></td>
         <td><b>${n_false_negative + n_true_negative}</b></td>
         <td><b>${n_total}</b></td>

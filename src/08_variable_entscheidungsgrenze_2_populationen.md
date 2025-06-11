@@ -15,6 +15,8 @@ import { calculateMetrics } from "./js/calculateMetrics.js";
 
 In den folgenden beiden Diagrammen werden die Daten der beiden Bevölkerungsgruppen getrennt dargestellt. Die Bank kann für beide Personengruppen unterschiedliche Entscheidungsgrenzen wählen – muss sie aber nicht.
 
+Probiert weiter unten verschiedene Entscheidungsgrenzen aus, um die folgenden Aufgaben zu bearbeiten
+
 <div class="tip" label="Aufgabe 1 (Diskussion)">
 <p>
  <i class="fas fa-comments"></i> Diskutiert in Gruppen, ob ihr unterschiedliche Entscheidungsgrenzen wählen würdet oder nur eine, die für beide Gruppen gilt. 
@@ -29,15 +31,17 @@ Diskutiert, was aus eurer Sicht faire Entscheidungsgrenzen für die beiden Perso
 
 <div class="tip" label="Aufgabe 2">
  <i class="fas fa-pencil-alt"></i>
-  Notiert die Grenzen, die ihr für die beiden Personengruppen wählt. Notiert zudem eure zugehörigen Argumente, warum diese Grenzen fair für beide Gruppen sind.
+  Notiert die Grenzen, die ihr für die beiden Personengruppen wählt. 
 </div>
 
 <div class="tip" label="Aufgabe 3">
    <i class="fas fa-pencil-alt"></i> Notiere deine Antworten zu folgenden Fragen auf dem Antwortblatt.
 <ol type="a">
-  <li>Welche statistischen Gütemaße habt ihr genutzt, um eure Entscheidungsgrenzen festzulegen? </li>
-  <li>Wieso habt ihr genau diese als relevant ausgewählt? </li>
-  <li>Wie seid ihr basierend auf diesen Gütemaßen zur Festlegung eurer Entscheidungsgrenzen gekommen?</li>
+  <li>Welche statistischen Gütemaße waren euch wichtig für die Wahl der Entscheidungsgrenzen? Warum fandet ihr diese Gütemaße wichtig?</li>
+  <li>Wie seid ihr basierend auf diesen Gütemaßen zur Festlegung eurer Entscheidungsgrenzen gekommen?
+ </li>
+  <li>Argumentiert, warum eure Grenzen fair für beide Personengruppen sind.<br>
+   <i>Die Grenze/n ist/sind fair, weil ... </i></li>
 </ol>
 </div>
 

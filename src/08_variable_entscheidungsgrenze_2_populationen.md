@@ -15,7 +15,7 @@ import { calculateMetrics } from "./js/calculateMetrics.js";
 
 In den folgenden beiden Diagrammen werden die Daten der beiden Bevölkerungsgruppen getrennt dargestellt. Die Bank kann für beide Personengruppen unterschiedliche Entscheidungsgrenzen wählen – muss sie aber nicht.
 
-Probiert weiter unten verschiedene Entscheidungsgrenzen aus, um die folgenden Aufgaben zu bearbeiten
+Probiert weiter unten verschiedene Entscheidungsgrenzen aus, um die folgenden Aufgaben zu bearbeiten.
 
 <div class="tip" label="Aufgabe 1 (Diskussion)">
 <p>

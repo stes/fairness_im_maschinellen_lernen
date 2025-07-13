@@ -198,7 +198,7 @@ eventListenerValidationNumeric(
 );
 ```
 
-## Evaluating the Decision Model
+## Evaluating the Credit Granting Model
 
 There are several statistical measures we can use to evaluate our model:
 

@@ -16,22 +16,17 @@ In the following two charts, the data from the two population groups is displaye
 
 <div class="tip" label="Task 1 (Discussion)">
   <p>
-    <i class="fas fa-comments"></i> Discuss in groups whether you would choose different decision thresholds or just one that applies to both groups. The goal should be that no group of people is treated unfairly or systematically disadvantaged.
+    <i class="fas fa-comments"></i> Discuss in groups whether you would choose different decision thresholds or just one that applies to both groups. The goal is that no group of people is treated unfairly or systematically disadvantaged.
   </p>
   <p>
     Discuss what you consider to be fair decision thresholds for the two groups of people. Also take into account that the bank should be satisfied with its profit.
   </p>
 </div>
 
-
 <div class="tip" label="Task 2">
-  <i class="fas fa-pencil-alt"></i>
-  Write down the thresholds you have chosen for the two groups of people.
-</div>
-
-<div class="tip" label="Task 3">
-  <i class="fas fa-pencil-alt"></i> Write your answers to the following questions.
+  <i class="fas fa-pencil-alt"></i> Write down your answers to the following questions.
   <ol type="a">
+    <li>Which thresholds have you chosen for the two groups of people.</li>
     <li>Which statistical measures were important to you when choosing the decision thresholds? Why did you find these measures important?</li>
     <li>How did you determine your decision thresholds based on these measures?</li>
     <li>Argue why your thresholds are fair for both groups of people.<br>

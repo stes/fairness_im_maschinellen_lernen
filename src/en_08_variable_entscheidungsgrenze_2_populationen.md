@@ -24,9 +24,9 @@ In the following two charts, the data from the two population groups is displaye
 </div>
 
 <div class="tip" label="Task 2">
-  <i class="fas fa-pencil-alt"></i> Write down your answers to the following questions.
+  <i class="fas fa-pencil-alt"></i> Write down your answers to the following questions:
   <ol type="a">
-    <li>Which thresholds have you chosen for the two groups of people.</li>
+    <li>Which thresholds have you chosen for the two groups of people?</li>
     <li>Which statistical measures were important to you when choosing the decision thresholds? Why did you find these measures important?</li>
     <li>How did you determine your decision thresholds based on these measures?</li>
     <li>Argue why your thresholds are fair for both groups of people.<br>

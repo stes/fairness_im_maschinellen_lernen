@@ -87,7 +87,7 @@ display(createTable(names1));
 ```
 
 <div class="tip" label="Task 1">
-Which of the following scatter plots A, B, or C represents the data from the table? You can sort the table by name, credit score, or past payment reliability by clicking the column headers. Scroll through the table to see all entries. Write down your answer.
+Which of the following scatter plots A, B, or C represents the data from the table? You can sort the table by name, credit score, or past payment reliability by clicking the column headers. Scroll through the table to see all entries.
 </div>
 
 <div class="grid grid-cols-3">
@@ -105,7 +105,7 @@ display(createTable(names2));
 ```
 
 <div class="tip" label="Task 2">
-Which scatter plot represents the data in the table? Write down your answer.
+Which scatter plot represents the data in the table? 
 </div>
 
 <div class="grid grid-cols-3">
@@ -123,7 +123,7 @@ display(createTable(names3));
 ```
 
 <div class="tip" label="Task 3">
-Which scatter plot represents the data in the table? Write down your answer.
+Which scatter plot represents the data in the table? 
 </div>
 
 <div class="grid grid-cols-3">

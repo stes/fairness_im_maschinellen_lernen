@@ -94,7 +94,7 @@ display(
 ```
 
 <div class="tip" label="Task 1">
-What should the decision threshold be so that only individuals who will repay the loan receive it?
+What decision threshold ensures that only individuals who will repay the loan are granted credit?
 </div>
 
 ```js
@@ -126,7 +126,7 @@ eventListenerValidationNumeric(
 ```
 
 <div class="tip" label="Task 2">
-What should the decision threshold be so that all individuals who will repay the loan receive it?
+What decision threshold ensures that all individuals who will repay the loan are granted credit?
 </div>
 
 ```js
@@ -157,5 +157,5 @@ eventListenerValidationNumeric(
 
 <div class="tip" label="Task 3">
    <i class="fas fa-pencil-alt"></i>
-At what credit score would you grant a loan? Justify your answer based on the dataset shown.
+At what credit score would you grant a loan? Justify your answer based on the dataset.
 </div>

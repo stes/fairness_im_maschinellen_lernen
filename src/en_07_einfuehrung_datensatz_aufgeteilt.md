@@ -55,7 +55,7 @@ const fig = Plot.plot({
 display(fig);
 ```
 
-However, we actually know more. Our dataset consists of two population groups that differ in a significant characteristic. This characteristic could be, for example, gender, ethnicity, or age (old vs. young). In our example dataset, we distinguish individuals by their fictional origin from “Greenland” and “Pinklandia.”
+However, we actually know more. Our dataset consists of two population groups that differ in a significant characteristic. This characteristic could be, for example, gender, ethnicity, or age (old vs. young). In our example dataset, we distinguish individuals by their fictional origin from “Grünhausen” and “Pinklandia.”
 
 In both population groups, there are 100 creditworthy and 100 non-creditworthy individuals. Thus, in both populations, the likelihood of a person being creditworthy is the same.
 

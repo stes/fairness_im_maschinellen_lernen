@@ -56,11 +56,11 @@ export default {
             path: "/en_04_einfuehrung_datensatz",
         },
         {
-            name: "IV. Statistical quality measures",
+            name: "IV. Statistical measures",
             path: "/en_05_feste_entscheidungsgrenze",
         },
         {
-            name: "V. Variable decision boundary",
+            name: "V. Variable decision threshold",
             path: "/en_06_variable_entscheidungsgrenze",
         },
         {
@@ -68,7 +68,7 @@ export default {
             path: "/en_07_einfuehrung_datensatz_aufgeteilt",
         },
         {
-            name: "VII. Fair decision boundaries!?",
+            name: "VII. Fair decision thresholds!?",
             path: "/en_08_variable_entscheidungsgrenze_2_populationen",
         },
     ],

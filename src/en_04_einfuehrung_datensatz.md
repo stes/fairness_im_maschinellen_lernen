@@ -94,7 +94,7 @@ display(
 ```
 
 <div class="tip" label="Task 1">
-What decision threshold ensures that only individuals who will repay the loan are granted credit?
+What decision threshold ensures that <b>only</b> individuals who will repay the loan are granted credit?
 </div>
 
 ```js
@@ -126,7 +126,7 @@ eventListenerValidationNumeric(
 ```
 
 <div class="tip" label="Task 2">
-What decision threshold ensures that all individuals who will repay the loan are granted credit?
+What decision threshold ensures that <b>all</b> individuals who will repay the loan are granted credit?
 </div>
 
 ```js

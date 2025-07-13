@@ -30,7 +30,7 @@ In the following two charts, the data from the two population groups is displaye
 </div>
 
 <div class="tip" label="Task 3">
-  <i class="fas fa-pencil-alt"></i> Write your answers to the following questions on the answer sheet.
+  <i class="fas fa-pencil-alt"></i> Write your answers to the following questions.
   <ol type="a">
     <li>Which statistical quality metrics were important to you when choosing the decision thresholds? Why did you find these metrics important?</li>
     <li>How did you determine your decision thresholds based on these metrics?</li>

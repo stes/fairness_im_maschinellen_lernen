@@ -1,5 +1,5 @@
 ---
-title: Statistical Performance Measures
+title: Statistical Measures
 style: css/custom.css
 ---
 

@@ -15,29 +15,31 @@ import { calculateMetrics } from "./js/calculateMetrics.js";
 In the following two charts, the data from the two population groups is displayed separately. The bank can choose different decision thresholds for each group – but doesn't have to.
 
 <div class="tip" label="Task 1 (Discussion)">
-<p>
- <i class="fas fa-comments"></i> Discuss in groups whether you would choose different decision thresholds or just one that applies to both groups. 
-The goal should be that no group of people is treated unfairly or systematically disadvantaged.
-</p>
-
-<p>
-Discuss what you consider fair decision thresholds for the two groups. Also consider that the bank should be satisfied with its profit.
-</p>
+  <p>
+    <i class="fas fa-comments"></i> Discuss in groups whether you would choose different decision thresholds or just one that applies to both groups. The goal should be that no group of people is treated unfairly or systematically disadvantaged.
+  </p>
+  <p>
+    Discuss what you consider to be fair decision thresholds for the two groups of people. Also take into account that the bank should be satisfied with its profit.
+  </p>
 </div>
 
+
 <div class="tip" label="Task 2">
- <i class="fas fa-pencil-alt"></i>
-  Note the thresholds you chose for the two population groups. Also note your arguments why these thresholds are fair for both groups.
+  <i class="fas fa-pencil-alt"></i>
+  Write down the thresholds you have chosen for the two groups of people.
 </div>
 
 <div class="tip" label="Task 3">
-   <i class="fas fa-pencil-alt"></i> Write your answers to the following questions on the answer sheet.
-<ol type="a">
-  <li>Which statistical performance metrics did you use to determine your decision thresholds?</li>
-  <li>Why did you choose these as relevant?</li>
-  <li>How did you use these metrics to determine your decision thresholds?</li>
-</ol>
+  <i class="fas fa-pencil-alt"></i> Write your answers to the following questions on the answer sheet.
+  <ol type="a">
+    <li>Which statistical quality metrics were important to you when choosing the decision thresholds? Why did you find these metrics important?</li>
+    <li>How did you determine your decision thresholds based on these metrics?</li>
+    <li>Argue why your thresholds are fair for both groups of people.<br>
+      <i>The threshold(s) is/are fair because ... </i>
+    </li>
+  </ol>
 </div>
+
 
 ```js
 const data = await FileAttachment("data/user/distribution.csv").csv({

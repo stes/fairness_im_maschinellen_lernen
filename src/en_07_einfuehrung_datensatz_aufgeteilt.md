@@ -138,7 +138,7 @@ const fig_right = Plot.plot({
 });
 ```
 
-<img src="img/fairness_grafik.png" alt="Distribution of the two population groups" />
+<img src="img/fairness_grafik_en.png" alt="Distribution of the two population groups" />
 <div class="grid grid-cols-2">
   <div class="card" style="max-width: 700px; ">
 

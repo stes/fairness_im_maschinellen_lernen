@@ -3,7 +3,7 @@ title: Statistical Performance Measures
 style: css/custom.css
 ---
 
-# Statistical Performance Measures
+# Statistical Measures
 
 ## Is the decision threshold really well chosen?
 
@@ -58,7 +58,7 @@ const percentTotalCredit = Math.round(
 data = translateData(data);
 ```
 
-To answer this question and validate the credit approval system, we will use total profit and various statistical performance measures.
+To answer this question and validate the credit approval system, we will use total profit and various statistical measures.
 
 The decision threshold is used for prediction. If a person has a credit score greater than or equal to the threshold, we predict they will repay the loan. If their score is below the threshold, we predict they will not repay. The threshold was initially fixed at 70. For all persons with a score >= 70, we predict repayment. For all others, we predict non-repayment. These predictions can now be compared with the known outcomes.
 
@@ -200,7 +200,7 @@ eventListenerValidationNumeric(
 
 ## Evaluating the Decision Model
 
-There are several performance metrics we can use to evaluate our model:
+There are several statistical measures we can use to evaluate our model:
 
 - <b>Accuracy:</b> Percentage of correct predictions out of all data points.
 - <b>Positive Rate:</b> Percentage of positive predictions (predicts: repays) out of all data points.
@@ -208,7 +208,7 @@ There are several performance metrics we can use to evaluate our model:
 - <b>Profit:</b> Total profit of the bank (Reminder: the bank earns €300 for each repaid loan and loses €700 for each not repaid loan).
 
 <div class="tip" label="Task 3">
-Calculate the values of the four performance metrics using the confusion matrix. Enter your results in the table below.
+Calculate the values of the four statistical measures using the confusion matrix. Enter your results in the table below.
 </div>
 
 ```html

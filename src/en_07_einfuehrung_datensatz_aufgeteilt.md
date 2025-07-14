@@ -62,7 +62,7 @@ In both population groups, there are 100 creditworthy and 100 non-creditworthy i
 However, the application of the credit score model results in clearly different distributions for the two groups. This is evident in the graphics below.
 
 ```js
-const fig_left = Plot.plot({
+const fig_right = Plot.plot({
   width: 600,
   height: 200,
   style: {
@@ -99,7 +99,7 @@ const fig_left = Plot.plot({
   ],
 });
 
-const fig_right = Plot.plot({
+const fig_left = Plot.plot({
   width: 600,
   height: 200,
   style: {

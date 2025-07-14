@@ -62,7 +62,7 @@ Die Anwendung des Kreditscore-Modells liefert jedoch deutlich unterschiedliche V
 
 
 ```js
-const fig_left = Plot.plot({
+const fig_right = Plot.plot({
   width: 600,
   height: 200,
   style: {
@@ -99,7 +99,7 @@ const fig_left = Plot.plot({
   ],
 });
 
-const fig_right = Plot.plot({
+const fig_left = Plot.plot({
   width: 600,
   height: 200,
   style: {

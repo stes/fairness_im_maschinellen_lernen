@@ -17,7 +17,6 @@ In the following two charts, the data from the two population groups is displaye
 <div class="tip" label="Task 1 (Discussion)">
   <p>
     <i class="fas fa-comments"></i> 
-    
     Discuss in groups whether you would choose different decision thresholds for each group or a single threshold for both groups. The goal is to ensure that no group is treated unfairly or systematically disadvantaged.
   </p>
   <p>

@@ -55,11 +55,12 @@ const fig = Plot.plot({
 display(fig);
 ```
 
-However, we actually know more. Our dataset consists of two population groups that differ in a significant characteristic. This characteristic could be, for example, gender, ethnicity, or age (old vs. young). In our example dataset, we distinguish individuals by their fictional origin from “Grünhausen” and “Pinklandia.”
+Our dataset provides even more information. It includes two population groups, each differing in a key characteristic. This characteristic might be gender, ethnicity, or age (such as older versus younger individuals). In our specific example, we classify individuals according to their fictional origin: “Grünhausen” and “Pinklandia.”
 
-In both population groups, there are 100 creditworthy and 100 non-creditworthy individuals. Thus, in both populations, the likelihood of a person being creditworthy is the same.
+Each group contains 100 creditworthy and 100 non-creditworthy individuals. Therefore, the probability of being creditworthy is identical in both groups.
 
-However, the application of the credit score model results in clearly different distributions for the two groups. This is evident in the graphics below.
+Despite this, applying the credit score model leads to distinctly different score distributions for the two groups. This difference is evident in the graphics below.
+
 
 ```js
 const fig_right = Plot.plot({

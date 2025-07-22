@@ -12,8 +12,6 @@ import { calculateMetrics } from "./js/calculateMetrics.js";
 <!-- Include Font Awesome -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
 
-In the following two charts, the data from the two population groups is displayed separately. The bank can choose different decision thresholds for each group – but doesn't have to.
-
 In the following two charts, the data from the two population groups is displayed separately. As a <b>policymaker or societal decision-maker</b>, your role is to define the rules under which banks may operate when granting credit. This includes whether banks are allowed to set different decision thresholds for different groups—or must apply a single, uniform threshold to all applicants.
 
 <div class="tip" label="Task 1 (Discussion)">

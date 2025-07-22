@@ -15,16 +15,17 @@ import { calculateMetrics } from "./js/calculateMetrics.js";
 
 In den folgenden beiden Diagrammen werden die Daten der beiden Bevölkerungsgruppen getrennt dargestellt. Die Bank kann für beide Personengruppen unterschiedliche Entscheidungsgrenzen wählen – muss sie aber nicht.
 
+In den folgenden beiden Diagrammen sind die Daten der beiden Bevölkerungsgruppen getrennt dargestellt. Ihr übernehmt nun die Rolle einer unabhängigen <b>Fairnessberaterin oder eines Fairnessberaters</b>: Eure Aufgabe ist es, Regeln festzulegen, nach denen Banken bei der Kreditvergabe entscheiden dürfen. Dazu gehört auch die Frage, ob unterschiedliche Entscheidungsgrenzen für verschiedene Gruppen zulässig sein sollen – oder ob für alle Kreditanwärter eine einheitliche Grenze gelten muss.
+
+
 Probiert weiter unten verschiedene Entscheidungsgrenzen aus, um die folgenden Aufgaben zu bearbeiten.
 
 <div class="tip" label="Aufgabe 1 (Diskussion)">
 <p>
- <i class="fas fa-comments"></i> Diskutiert in Gruppen, ob ihr unterschiedliche Entscheidungsgrenzen wählen würdet oder nur eine, die für beide Gruppen gilt. 
-Ziel sollte sein, dass keine Gruppe von Menschen ungerecht behandelt oder systematisch benachteiligt wird.
+ <i class="fas fa-comments"></i> Diskutiert, ob ihr unterschiedliche Entscheidungsgrenzen wählen würdet oder nur eine, die für beide Gruppen gilt. 
 </p>
-
 <p>
-Diskutiert, was aus eurer Sicht faire Entscheidungsgrenzen für die beiden Personengruppen sind. Berücksichtigt dabei, dass auch die Bank mit ihrem Gewinn zufrieden sein sollte.
+Entscheidet, welche Entscheidungsgrenzen ihr für fair haltet – sie sollen Einzelpersonen vor systematischen Benachteiligungen schützen und gleichzeitig eine ausreichend profitable Arbeitsweise der Bank ermöglichen.
 </p>
 </div>
 

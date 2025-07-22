@@ -14,13 +14,17 @@ import { calculateMetrics } from "./js/calculateMetrics.js";
 
 In the following two charts, the data from the two population groups is displayed separately. The bank can choose different decision thresholds for each group – but doesn't have to.
 
+In the following two charts, the data from the two population groups is displayed separately. As a <b>policymaker or societal decision-maker</b>, your role is to define the rules under which banks may operate when granting credit. This includes whether banks are allowed to set different decision thresholds for different groups—or must apply a single, uniform threshold to all applicants.
+
 <div class="tip" label="Task 1 (Discussion)">
   <p>
     <i class="fas fa-comments"></i> 
-    Discuss whether you would choose different decision thresholds for each group or a single threshold for both groups. The goal is to ensure that no group is treated unfairly or systematically disadvantaged.
   </p>
   <p>
-  Decide what you consider to be fair decision thresholds for the two groups, taking into account both fairness and the bank’s need to achieve a satisfactory profit.
+ Discuss whether you would choose different decision thresholds for each group or a single threshold for both groups. 
+
+Decide what you consider to be fair decision thresholds for the two groups that protect individuals from systematic disadvantage while also enabling the bank to operate sustainably.
+
   </p>
 </div>
 

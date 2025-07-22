@@ -13,8 +13,6 @@ import { calculateMetrics } from "./js/calculateMetrics.js";
 <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet">
 
 
-In den folgenden beiden Diagrammen werden die Daten der beiden Bevölkerungsgruppen getrennt dargestellt. Die Bank kann für beide Personengruppen unterschiedliche Entscheidungsgrenzen wählen – muss sie aber nicht.
-
 In den folgenden beiden Diagrammen sind die Daten der beiden Bevölkerungsgruppen getrennt dargestellt. Ihr übernehmt nun die Rolle einer unabhängigen <b>Fairnessberaterin oder eines Fairnessberaters</b>: Eure Aufgabe ist es, Regeln festzulegen, nach denen Banken bei der Kreditvergabe entscheiden dürfen. Dazu gehört auch die Frage, ob unterschiedliche Entscheidungsgrenzen für verschiedene Gruppen zulässig sein sollen – oder ob für alle Kreditanwärter eine einheitliche Grenze gelten muss.
 
 

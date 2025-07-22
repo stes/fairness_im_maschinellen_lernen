@@ -16,13 +16,10 @@ In the following two charts, the data from the two population groups is displaye
 
 <div class="tip" label="Task 1 (Discussion)">
   <p>
-    <i class="fas fa-comments"></i> 
+    <i class="fas fa-comments"></i>  Discuss whether you would choose different decision thresholds for each group or a single threshold for both groups. 
   </p>
   <p>
- Discuss whether you would choose different decision thresholds for each group or a single threshold for both groups. 
-
 Decide what you consider to be fair decision thresholds for the two groups that protect individuals from systematic disadvantage while also enabling the bank to operate sustainably.
-
   </p>
 </div>
 

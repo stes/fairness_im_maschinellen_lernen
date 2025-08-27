@@ -161,6 +161,6 @@ display(fig_right);
   The bank decides to use your "optimal" decision threshold from the previous task for both population groups.
 <ol type="a">
   <li>Find as many points of criticism as possible regarding this approach.</li>
-  <li>Argue from the bank’s perspective why this could be a good approach.</li>
+  <li>Argue, from the bank’s perspective, why this might be a reasonable approach.</li>
 </ol>
 </div>

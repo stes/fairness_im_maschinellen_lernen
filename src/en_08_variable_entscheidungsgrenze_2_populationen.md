@@ -60,13 +60,13 @@ data.forEach(d => {
 const connected = view(
   Inputs.radio(
     [
-      "Independent from Pinklandia",
+      "Independent from Pinkville",
       "Same Decision Thresholds",
       "Same Positive Rates",
       "Same True Positive Rates",
     ],
     {
-      label: "Slider setting for Grünhausen",
+      label: "Slider setting for Greenfield",
       value: "Independent",
     }
   )
@@ -76,7 +76,7 @@ const connected = view(
 <div class="grid grid-cols-2">
   <div class="card" style="max-width: 700px; ">
 
-<h2>Decision Threshold Pinklandia</h2>
+<h2>Decision Threshold Pinkville</h2>
 
 ```js
 const threshold_Alt = view(
@@ -214,7 +214,7 @@ display(
 
   <div class="card" style="max-width: 500px; ">
 
-<h2>Decision Threshold Grünhausen</h2>
+<h2>Decision Threshold Greenfield</h2>
 
 ```js
 // Determine threshold for "Jung"

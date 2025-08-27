@@ -74,8 +74,6 @@ display(
 );
 ```
 
-Our prediction at a decision threshold of ${threshAlt}:
-
 ```js
 import { calculateMetrics } from "./js/calculateMetrics.js";
 ```

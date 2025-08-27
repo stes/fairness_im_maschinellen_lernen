@@ -55,7 +55,7 @@ const fig = Plot.plot({
 display(fig);
 ```
 
-Our dataset provides even more information. It includes two population groups, each differing in a key characteristic. This characteristic might be gender, ethnicity, or age (such as older versus younger individuals). In our specific example, we classify individuals according to their fictional origin: “Grünhausen” and “Pinklandia.”
+Our dataset provides even more information. It includes two population groups, each differing in a key characteristic. This characteristic might be gender, ethnicity, or age (such as older versus younger individuals). In our specific example, we classify individuals according to their fictional origin: “Greenfield” and “Pinkville.”
 
 Each group contains 100 creditworthy and 100 non-creditworthy individuals. Therefore, the probability of being creditworthy is identical in both groups.
 

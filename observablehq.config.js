@@ -1,47 +1,15 @@
 // See https://observablehq.com/framework/config for documentation.
 export default {
     // The app's title; used in the sidebar and webpage titles.
-    title: "Fairness in der Kreditvergabe",
+    title: "Fairness in Data-Driven Algorithmic Loan Approval",
 
     // The pages and sections in the sidebar. If you don't specify this option,
     // all pages will be listed in alphabetical order. Listing pages explicitly
     // lets you organize them into sections and have unlisted pages.
     pages: [
         {
-            name: "Einleitung: Faire Kreditvergabe",
-            path: "/index",
-        },
-        {
-            name: "I. Kreditvergabe und Gesamtgewinn",
-            path: "/02_vierfelder",
-        },
-        {
-            name: "II. Die Daten verstehen",
-            path: "/03_histogram",
-        },
-        {
-            name: "III. Der Datensatz",
-            path: "/04_einfuehrung_datensatz",
-        },
-        {
-            name: "IV. Statistische Gütemaße",
-            path: "/05_feste_entscheidungsgrenze",
-        },
-        {
-            name: "V. Variable Entscheidungsgrenze",
-            path: "/06_variable_entscheidungsgrenze",
-        },
-        {
-            name: "VI. Zwei Personengruppen",
-            path: "/07_einfuehrung_datensatz_aufgeteilt",
-        },
-        {
-            name: "VII. Faire Entscheidungsgrenzen!?",
-            path: "/08_variable_entscheidungsgrenze_2_populationen",
-        },
-        {
             name: "Introduction: Fair Credit Granting",
-            path: "/en_index",
+            path: "/index",
         },
         {
             name: "I. Credit granting and total profit",
@@ -90,6 +58,6 @@ export default {
     search: false, // activate search
     linkify: true, // convert URLs in Markdown to links
     // typographer: false, // smart quotes and other typographic improvements
-    // preserveExtension: false, // drop .html from URLs
-    // preserveIndex: false, // drop /index from URLs
+    preserveExtension: true, // drop .html from URLs
+    preserveIndex: true, // drop /index from URLs
 };

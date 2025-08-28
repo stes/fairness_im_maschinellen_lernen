@@ -3,11 +3,10 @@ toc: false
 style: css/custom.css
 ---
 
-# Fairness in der datengetriebenen algorithmischen Kreditvergabe 
+# Fairness in Data-Driven Algorithmic Loan Approval
 
-Bei der Vergabe von Krediten sind Finanzinstitute daran interessiert, möglichst nur den Kunden einen Kredit zu geben, die diesen auch tatsächlich zurückzahlen. Vergibt eine Bank einen Kredit an eine Person, die ihn verzinst zurückzahlt, verdient sie daran. Vergibt sie hingegen einen Kredit an eine Person, die ihn nicht zurückzahlt, macht sie Verluste. Eine Bank wird daran interessiert sein, ihren Profit zu maximieren. 
+When issuing loans, financial institutions are interested in giving loans only to customers who are likely to repay them. If a bank gives a loan to someone who repays it with interest, the bank makes a profit. However, if the loan is not repaid, the bank incurs a loss. Therefore, a bank will aim to maximize its profit.
 
-Gleichzeitig sind Banken dazu verpflichtet, unterschiedliche Personengruppen hinsichtlich gewisser geschützter Merkmale (Geschlecht, Herkunft, Religion) nicht zu diskriminieren.
+At the same time, banks are required not to discriminate against different groups of people based on certain protected characteristics (such as gender, origin, religion).
 
-Jeder, der einen Kredit beantragt, möchte diesen unabhängig von solchen geschützten Merkmalen oder Zugehörigkeiten erhalten. <b>In diesem Lernmodul</b> kannst du verschiedene Strategien entwickeln und ausprobieren, um Kredite möglichst “fair” an verschiedene Personengruppen zu verteilen. Dazu erkundest du zunächst die zugrundeliegenden Daten, entwickelst ein Entscheidungssystem zur Vergabe von Krediten, bewertest dieses und setzt anschließend verschiedene Fairness-Strategien um.
-
+Anyone applying for a loan wants to be evaluated independently of such protected traits or affiliations. In this learning module, you will develop and try out various strategies for distributing loans as “fairly” as possible among different groups of people. To do this, you will first explore the underlying data, develop a decision-making system for loan approval, evaluate it, and then implement various fairness strategies.
